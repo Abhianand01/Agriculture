@@ -83,10 +83,10 @@ html {
     <div class="card">
       <img src="Images/image.jpeg" alt="Mike" style="width:100%">
       <div class="container">
-        <h2>Animesh Raj</h2>
+        <h2>Abhishek Anand</h2>
         <p class="title">Student</p>
         <p><i>Department of Computer Science & Engineering, Asansol Engineering College, Asansol West Bengal</i></p>
-        <p>Email: <Strong>animeshraj38781@gmail.com </Strong></p>
+        <p>Email: <Strong>abhishek01aeccse@gmail.com </Strong></p>
         
       </div>
     </div>
